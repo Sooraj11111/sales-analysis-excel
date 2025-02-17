@@ -39,4 +39,4 @@ The dataset includes sales transactions with the following columns:
 
 ## 📢 Author  
 **Sooraj Krishna**  
-📧 [Your Email or GitHub Profile]  
+📧 ksooraj120@gmail.com  
